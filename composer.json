@@ -1,0 +1,18 @@
+{
+    "name": "rsm/homework-3",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yessaliyev",
+            "email": "40271311+yessaliyev@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RYessaliyev\\": "src/RYessaliyev"
+        }
+    }
+}
